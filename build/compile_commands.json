@@ -1,8 +1,8 @@
 [
 {
   "directory": "C:/Projects/C/game/build",
-  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -o CMakeFiles\\app.dir\\main.c.obj -c C:\\Projects\\C\\game\\main.c",
+  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -o CMakeFiles\\MyApp.dir\\main.c.obj -c C:\\Projects\\C\\game\\main.c",
   "file": "C:\\Projects\\C\\game\\main.c",
-  "output": "CMakeFiles\\app.dir\\main.c.obj"
+  "output": "CMakeFiles\\MyApp.dir\\main.c.obj"
 }
 ]
